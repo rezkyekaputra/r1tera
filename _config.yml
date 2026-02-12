@@ -7,9 +7,10 @@ relative_permalinks: false
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+#url:                 http://getpoole.com
 url:             "https://r1tera.malam.or.id"
+paginate:            1
+#url:             "https://r1tera.malam.or.id"
 #url : "https://rezkyekaputra.github.io"
 # Assets
 #

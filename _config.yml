@@ -11,6 +11,9 @@ tagline:             The Jekyll Butler
 url:             "https://r1tera.malam.or.id"
 paginate:            1
 baseurl:             ""
+markdown:         kramdown
+highlighter:      rouge
+
 #url : "https://rezkyekaputra.github.io"
 # Assets
 #

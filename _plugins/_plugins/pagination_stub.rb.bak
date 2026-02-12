@@ -1,0 +1,14 @@
+module Jekyll
+  module Paginate
+    class Pagination < Generator
+      safe true
+      priority :lowest
+
+      def generate(site)
+        # Kita buat kosong saja agar tidak bentrok dengan sistem internal
+        # tapi tag 'paginate' tetap terdaftar di sistem.
+        puts "Pesan: Plugin Pagination lokal aktif (Ruby 2.3.8 mode)"
+      end
+    end
+  end
+end

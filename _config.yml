@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             "https://r1tera.malam.or.id"
+url:             "https://r1tera.malam.or.id"
 #url : "https://rezkyekaputra.github.io"
 # Assets
 #

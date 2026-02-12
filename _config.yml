@@ -10,7 +10,7 @@ tagline:             The Jekyll Butler
 #url:                 http://getpoole.com
 url:             "https://r1tera.malam.or.id"
 paginate:            1
-#url:             "https://r1tera.malam.or.id"
+baseurl:             ""
 #url : "https://rezkyekaputra.github.io"
 # Assets
 #

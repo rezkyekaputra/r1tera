@@ -8,7 +8,7 @@ relative_permalinks: false
 title:               Poole
 tagline:             The Jekyll Butler
 #url:                 http://getpoole.com
-url:             "https://r1tera.malam.or.id"
+url:             "https://r1tera.baselinux.net
 paginate:            1
 baseurl:             ""
 #markdown:         kramdown

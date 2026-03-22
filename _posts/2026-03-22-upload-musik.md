@@ -7,6 +7,6 @@ categories: [update]
 
 Berikut adalah gambar yang tersimpan di direktori `assets/musik/`:
 
-![Screenshot Musik]({{ site.baseurl }}/assets/musik/ss.jpg)
+![Screenshot Musik]({{ site.baseurl }}/assets/music/ss.jpg)
 
 > **Catatan:** Jika kamu tidak menggunakan sub-path di GitHub Pages, kamu juga bisa menulisnya langsung seperti ini: `![](/assets/musik/ss.jpg)`.

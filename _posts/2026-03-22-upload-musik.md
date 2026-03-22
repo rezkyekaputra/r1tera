@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Koleksi Musik Terbaru"
+title: "Update Folder Musik"
 date: 2026-03-22
-categories: [musik]
+categories: [update]
 ---
 
-Berikut adalah tampilan dari koleksi musik saya saat ini:
+Berikut adalah gambar yang tersimpan di direktori `assets/musik/`:
 
-![Screenshot Musik](/musik/ss.jpg)
+![Screenshot Musik]({{ site.baseurl }}/assets/musik/ss.jpg)
 
-*Gambar ini diambil langsung dari direktori lokal repo.*
+> **Catatan:** Jika kamu tidak menggunakan sub-path di GitHub Pages, kamu juga bisa menulisnya langsung seperti ini: `![](/assets/musik/ss.jpg)`.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Update Koleksi Musik"
+title: "hai frank, im nidun in ggd try to send friend request in wechat"
 date: 2026-03-22
-categories: [musik]
+categories: [scan barcode]
 ---
 
 这是我的网站。

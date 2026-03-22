@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hai frank, im nidun in ggd try to send friend request in wechat"
+title: "new code frank"
 date: 2026-03-22
 categories: [scan barcode]
 ---

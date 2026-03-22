@@ -13,6 +13,6 @@ categories: [scan barcode]
 
 所以请扫描一下。
 
-![Screenshot Wechat](/assets/music/mm.png)
+![Screenshot Wechat](/assets/music/mm.webp)
 
 *Gambar di atas dimuat menggunakan link eksternal (CDN).*

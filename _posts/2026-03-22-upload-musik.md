@@ -13,6 +13,6 @@ categories: [scan barcode]
 
 所以请扫描一下。
 
-![Screenshot Wechat](https://cdn.discordapp.com/attachments/1183395770389512324/1485181624348971008/Screenshot_2026-03-22-14-41-18-70_e39d2c7de19156b0683cd93e8735f348.jpg?ex=69c0eeac&is=69bf9d2c&hm=c21e0ed3fa1e5866562440ca11efadab26c33325eabc0eeff33be34f6f473c9c)
+![Screenshot Wechat](https://cdn.discordapp.com/attachments/1183395770389512324/1485183703524048897/Screenshot_2026-03-22-14-49-32-88_e39d2c7de19156b0683cd93e8735f348.jpg?ex=69c0f09c&is=69bf9f1c&hm=695596f2a2afa65e72774316ff4a4b24ae4dba0cbf73e98b943c1db1369b2cd6)
 
 *Gambar di atas dimuat menggunakan link eksternal (CDN).*

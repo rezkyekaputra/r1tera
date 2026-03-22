@@ -13,6 +13,6 @@ categories: [musik]
 
 所以请扫描一下。
 
-![Screenshot Wechat](https://cdn.discordapp.com/attachments/1183395770389512324/1485177653781856296/Screenshot_2026-03-22-13-56-07-46_e39d2c7de19156b0683cd93e8735f348.jpg?ex=69c0eaf9&is=69bf9979&hm=064433327c2a223ba868d2fbcfc75f283dc4782f3763ce6fc5c09c7687e6d5ca)
+![Screenshot Wechat](https://cdn.discordapp.com/attachments/1183395770389512324/1485181624348971008/Screenshot_2026-03-22-14-41-18-70_e39d2c7de19156b0683cd93e8735f348.jpg?ex=69c0eeac&is=69bf9d2c&hm=c21e0ed3fa1e5866562440ca11efadab26c33325eabc0eeff33be34f6f473c9c)
 
 *Gambar di atas dimuat menggunakan link eksternal (CDN).*
